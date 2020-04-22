@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "convert-term-case:convert"
   },
-  "repository": "https://github.com/atom/convert-term-case",
+  "repository": "https://github.com/poilkjmn22/convert-term-case.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
