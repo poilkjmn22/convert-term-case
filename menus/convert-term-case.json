@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle convert-term-case",
+        "command": "convert-term-case:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "convert-term-case",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "convert-term-case:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

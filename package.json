@@ -1,0 +1,18 @@
+{
+  "name": "convert-term-case",
+  "main": "./lib/convert-term-case",
+  "version": "0.0.0",
+  "description": "convert the term case at current cursor between camelCase,kebab-case,snake_case,Start Case",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "convert-term-case:convert"
+  },
+  "repository": "https://github.com/atom/convert-term-case",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
