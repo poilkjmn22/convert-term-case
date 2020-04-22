@@ -1,7 +1,7 @@
 {
   "name": "convert-term-case",
   "main": "./lib/convert-term-case",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "convert the term case at current cursor between camelCase,kebab-case,snake_case,Start Case",
   "keywords": [],
   "activationCommands": {
